@@ -3,7 +3,7 @@ defmodule Mongo.Mixfile do
 
   def project do
     [ app: :mongo,
-      name: "mongo",
+      name: "elixir-mongo",
       version: "0.3.0",
       elixir: "~> 0.14.1",
       source_url: "https://github.com/checkiz/elixir-mongo",
