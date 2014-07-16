@@ -2,7 +2,7 @@ defmodule Mongo.Mixfile do
   use Mix.Project
 
   def project do
-    [ app: :mongo,
+    [ app: :"elixir-mongo",
       name: "elixir-mongo",
       version: "0.3.0",
       elixir: "~> 0.14.1",
