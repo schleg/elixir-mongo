@@ -1,0 +1,1 @@
+%{"bson": {:git, "git://github.com/checkiz/elixir-bson.git", "006f2c08a73bd206c2d9681e2b66e0aca03832f0", [tag: "0.3"]}}
